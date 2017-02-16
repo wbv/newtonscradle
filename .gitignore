@@ -1,0 +1,6 @@
+*.suo
+*.pyproj
+*.sln
+*~
+*swp
+!.gitignore
